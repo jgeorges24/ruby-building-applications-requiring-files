@@ -1,3 +1,5 @@
+require_reletive './garden.rb'
+
 class Plant
   attr_accessor :garden, :name
 
